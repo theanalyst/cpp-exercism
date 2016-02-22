@@ -33,3 +33,5 @@ string bob::hey(string in){
     else
 	return "Whatever.";
 }
+
+int main(){return 0;}
