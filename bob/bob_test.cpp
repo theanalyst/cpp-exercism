@@ -90,3 +90,4 @@ BOOST_AUTO_TEST_CASE(not_all_silence)
 #if defined(EXERCISM_RUN_ALL_TESTS)
 #endif
 
+int main(){return 0;}
