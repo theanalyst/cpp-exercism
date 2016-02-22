@@ -4,7 +4,7 @@
 #include <string>
 
 namespace bob{
-    std::string hey(std::string input);
+    std::string hey(std::string in);
 }
 
 #endif /* _BOB_H_ */
